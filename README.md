@@ -2,12 +2,12 @@
 
 Official Model Context Protocol (MCP) server definition for **[SocialHive](https://socialhive.pro)**.
 
-[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.jalal1985khan%2Fsocialhive-blue)](https://registry.modelcontextprotocol.io/v0.1/servers?search=socialhive)
+[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-pro.socialhive%2Fplatform-blue)](https://registry.modelcontextprotocol.io/v0.1/servers?search=socialhive)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://registry.modelcontextprotocol.io/v0.1/servers?search=socialhive)
 
 SocialHive enables AI assistants (Claude, Cursor, Windsurf, Cline, ChatGPT, and custom LLM agents) to draft, schedule, and publish content across social platforms, generate AI-powered text and image variations, inspect performance analytics, and automate social workflows.
 
-- **Official Registry Identifier**: `io.github.jalal1985khan/socialhive`
+- **Official Registry Identifier**: `pro.socialhive/platform`
 - **Remote Streamable HTTP Endpoint**: `https://platform.socialhive.pro/api/mcp`
 - **Supported Transports**: Streamable HTTP (`POST`), Server-Sent Events (`GET` with `Accept: text/event-stream`)
 - **Protocol Versions**: `2026-07-28`, `2025-11-25`, `2025-06-18`, `2025-03-26`, `2024-11-05`

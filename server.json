@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.jalal1985khan/socialhive",
+  "name": "pro.socialhive/platform",
   "title": "SocialHive",
   "description": "Social media management, multi-platform publishing, AI generation, and cross-channel analytics.",
   "version": "1.0.0",
