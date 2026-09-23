@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "pro.socialhive/platform",
+  "title": "SocialHive",
+  "description": "SocialHive MCP server for social media management, automated multi-platform publishing (LinkedIn, X, Bluesky, Mastodon, Facebook, Instagram, Threads, TikTok, YouTube, Pinterest), AI content generation, and analytics.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/jalal1985khan/socialhive-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://socialhive.pro",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://platform.socialhive.pro/api/mcp"
+    }
+  ]
+}
